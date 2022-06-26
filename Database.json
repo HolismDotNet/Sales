@@ -1,0 +1,10 @@
+{
+    "name": "Sales",
+    "tables": [
+        {
+            "name": "Dummy",
+            "hasGuid": true,
+            "columns": []
+        }
+    ]
+}
