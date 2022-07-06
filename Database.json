@@ -2,7 +2,7 @@
     "name": "Sales",
     "tables": [
         {
-            "name": "Dummy",
+            "name": "SoldPackages",
             "hasGuid": true,
             "columns": []
         }
